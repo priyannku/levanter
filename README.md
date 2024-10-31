@@ -1,4 +1,4 @@
-# WhatsApp MD User Bot
+priaynku# WhatsApp MD User Bot
 
 A simple WhatsApp User bot.
 
@@ -6,7 +6,7 @@ A simple WhatsApp User bot.
 
 ### 1. Deploy on Heroku
 
-1. **Scan QR Code:**
+1. **Scan QR Code:levanter_31d0f167017dad4e39900d5eff9cdae1a4
    - Click [SCAN](https://qr-hazel-alpha.vercel.app/md) and scan the QR code through the "WhatsApp Linked Devices" option in your WhatsApp app.
    - You will get a session ID in WhatsApp; copy the ID only.
 
@@ -78,7 +78,7 @@ A simple WhatsApp User bot.
 
 6. **Enter Environment Variables:**
    ```sh
-   echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+   echo "SESSION_ID = levanter_31d0f167017dad4e39900d5eff9cdae1a4Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
    PREFIX = .
    STICKER_PACKNAME = LyFE
    ALWAYS_ONLINE = false
